@@ -1,0 +1,164 @@
+.navbar-brand img{
+margin: 0%;
+width: 15%;
+height: 15%;
+padding: 0%;
+}
+.navbar{
+    padding: 0.1rem;
+}
+.navbar-nav li{
+    padding-right: 2em;
+}
+.btn{font-size: 1.5em !important;}
+.navbar-nav a{
+    font-size: 1.5em !important;
+    margin-top: .1em;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+.dropdown-toggle{
+    width: 6em;
+    margin-right: 3rem;  
+}
+.writer{
+    text-align: center !important;
+}
+.list-group{
+    align-items: center;
+    background-color: black;
+    text-align: center;
+}
+.list-group li{
+    background-color:black;
+    color: white;
+}
+.container-fluid{
+    align-items: center;
+}
+.row{text-align: center;}
+.social a{
+font-size: 4.5em;
+padding: 3rem;
+}
+.collapsed a{
+    text-align: center !important;
+    align-items: center !important;
+}
+.fa-facebook{
+    color: #3b5998
+}
+.fa-twitter{
+    color: #00aced;
+}
+.fa-instagram{
+    color: #517fa4;
+}
+.fa-youtube{
+    color: #bb0000;
+}
+.yours,.start,.because,.inspire{
+    color: red;
+}
+.navbar-nav a:hover {
+    color: red !important;
+    font-size: 4em !important;
+    font-family: 'Dancing Script', cursive;
+}
+.fa-facebook:hover, .fa-twitter:hover, .fa-instagram:hover, .fa-youtube:hover{color: #d5d5d5;}
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+}
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 100%;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
+}
+footer a{color: #d5d5d5;}
+hr.light-100{
+    border-top: 1px solid #d5d5d5;
+    width:100%;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;
+}
+.read{
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4em;
+}
+.readred{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+}
+.write{
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4em;
+}
+.writered{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+}
+.anonymous{
+    color: yellow;
+    font-family: 'Dancing Script', cursive;
+    font-size: 4em;
+}
+.anonymousred{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+}
+.writogram-red{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+}
+@media (max-width: 560px)
+{
+    .carousel-item img
+    {
+        height: 50vh !important;
+    }
+}
+@media (max-width: 350px)
+{
+    .carousel-item img
+    {
+        height: 40vh !important;
+    }
+}
+
+@media (max-width: 992px)
+{
+    .social a{
+        font-size: 4em;
+        padding: 2rem; 
+    }
+}
+/*
+@media (max-width:1350px )
+{
+    .navbar-brand img{
+        height: 16rem;
+        width: 16rem;
+    }
+}
+*/
+
+
+
+/*
+A website that makes you write
+Start your journey with words.
+Everyone has a story:
+What's yours?
+Tell Me a Story:
+Inspiring, Touching, Funny and Heartfelt Stories from Life . . .
+Share your thoughts:
+Because every thought matters here...
+*/
